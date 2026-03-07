@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sydneypagec
-- 👀 I’m interested in full stack development and game design. I'm especially interested in building creative tools, music education applications, and tools in the world of women's sports. 
-- 🌱 I’m currently learning Python, Java, JavaScript, HTML, and CSS. I'm currently working on building mastery of the MERN stack.
+- 👋 Hi, I’m Syd.
+- 👀 I’m interested in full stack development of creative tools, music education applications, anything in the women's sports ecosystem, and practical software that solves real-world problems.
+- 🌱 In my graduate-level computer science studies, I'm studying Python, Java, data structures and algorithms, discrete math, test-driven development, and more. When building, I'm focusing on learning the MERN stack.
 - 💞️ I’m looking to collaborate on beginner/intermediate level projects and learning how to help out on open-source projects
