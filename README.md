@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sydneypagec
-- I'm new to coding and currently building my first projects.  
-- 👀 I’m interested in web development, game design, and many other things, I'm just excited to learn.  
-- 🌱 I’m currently learning JavaScript, HTML, and CSS
+- 👀 I’m interested in full stack development and game design. I'm especially interested in building creative tools, music education applications, and tools in the world of women's sports. 
+- 🌱 I’m currently learning Python, Java, JavaScript, HTML, and CSS. I'm currently working on building mastery of the MERN stack.
 - 💞️ I’m looking to collaborate on beginner/intermediate level projects and learning how to help out on open-source projects
