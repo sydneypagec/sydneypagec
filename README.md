@@ -3,4 +3,4 @@
 - 🌱 I'm currently getting a masters in computer science at the University of Pennsylvania, studying Python, Java, data structures and algorithms, discrete math, test-driven development, and more.
 
 What's in my repos:
-🏋🏽‍♀️** pt_crm**: A full-stack personal training customer relationship management web application using the MERN stack (MongoDB, Express, React, and Node.js)
+- 🏋🏽‍♀️pt_crm: A full-stack personal training customer relationship management web application using the MERN stack (MongoDB, Express, React, and Node.js)
