@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Syd.
 - 👀 I’m interested in full stack development of creative tools, music education applications, anything in the women's sports ecosystem, and practical software that solves real-world problems.
-- 🌱 In my graduate-level computer science studies, I'm studying Python, Java, data structures and algorithms, discrete math, test-driven development, and more. When building, I'm focusing on learning the MERN stack.
-- 💞️ I’m looking to collaborate on beginner/intermediate level projects and learning how to help out on open-source projects
+- 🌱 I'm currently getting a masters in computer science at the University of Pennsylvania, studying Python, Java, data structures and algorithms, discrete math, test-driven development, and more.
+
+What's in my repos:
+🏋🏽‍♀️** pt_crm**: A full-stack personal training customer relationship management web application using the MERN stack (MongoDB, Express, React, and Node.js)
