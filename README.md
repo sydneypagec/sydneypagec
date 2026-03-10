@@ -4,3 +4,4 @@
 
 What's in my repos:
 - 🏋🏽‍♀️trainer_crm: A full-stack personal training customer relationship management web application using the MERN stack (MongoDB, Express, React, and Node.js)
+- 🧾client_billing: A Python script I use to automate client billing in my small business
