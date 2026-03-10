@@ -3,4 +3,4 @@
 - 👀 I’m interested in full stack development of creative tools, music education applications, anything in the women's sports ecosystem, and practical software that solves real-world problems.
 
 What's in my repos:
-- 🏋🏽‍♀️pt_crm: A full-stack personal training customer relationship management web application using the MERN stack (MongoDB, Express, React, and Node.js)
+- 🏋🏽‍♀️trainer_crm: A full-stack personal training customer relationship management web application using the MERN stack (MongoDB, Express, React, and Node.js)
