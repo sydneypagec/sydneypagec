@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syd.
 - 🌱 I'm currently getting a masters in computer science at the University of Pennsylvania, studying Python, Java, data structures and algorithms, discrete math, test-driven development, and more.
-- 👀 I’m interested in full stack development of creative tools, music education applications, anything in the women's sports ecosystem, and practical software that solves real-world problems.
+- 👀 I’m interested in full stack development of practical software that solves real-world problems. I'm especially interested in creative tools, education software (especially music!), anything in the women's sports ecosystem, and anything I can use immediately to make my life easier, like software to help me manage my small business.
 
 What's in my repos:
 - 🏋🏽‍♀️trainer_crm: A full-stack personal training customer relationship management web application using the MERN stack (MongoDB, Express, React, and Node.js)
